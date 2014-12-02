@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mmarcot.spaceshipfury" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Space Ship Fury Invaders</name>
+    <description>
+			Shoot em all
+    </description>
+    <author email="mmarcot@gmail.com">
+			Mallory Marcot
+    </author>
+
+    <content src="index.html" />
+    <access origin="*" />
+
+	<preference name="orientation" value="portrait"/>
+	<preference name="fullscreen" value="true"/>
+
+    <preference name="SplashScreen" value="splash" />
+    <preference name="SplashScreenDelay" value="3000" />
+
+    <icon src="icon.png"/>
+
+</widget>
