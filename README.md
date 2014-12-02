@@ -1,7 +1,7 @@
 Space Ship Fury : Invaders
 ========================
 
-Space Ship Fury : Invaders is a Android Game available on the Play store
+Space Ship Fury : Invaders is a simple and addictive Android Game available on the Play store
 
 https://play.google.com/store/apps/details?id=com.mmarcot.spaceshipfury
 
