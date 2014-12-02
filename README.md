@@ -1,5 +1,3 @@
- * Ajout d'un mode de jeu aventure
-=======
 Space Ship Fury : Invaders
 ========================
 
